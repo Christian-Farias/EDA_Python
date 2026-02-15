@@ -52,7 +52,6 @@ Este projeto implementa uma Análise Exploratória de Dados (EDA) automática, p
 - NumPy
 - Matplotlib
 - Streamlit
-
 Aplicação em Streamlit
-[STREAMLIT](https://edaautomatica.streamlit.app/)
+[STREAMLIT](https://christian-farias-eda-python-eda-tflhcx.streamlit.app/)
 ---
