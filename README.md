@@ -20,7 +20,7 @@ Este projeto implementa uma Análise Exploratória de Dados (EDA) automática, p
 
 ## Funcionalidades
 
-### 🔍 Upload e Prévia dos Dados
+### Upload e Prévia dos Dados
 - Upload de arquivos `.csv` e `.xlsx`  
 - Visualização inicial da tabela  
 
